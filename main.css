@@ -110,6 +110,11 @@ main {
   margin-bottom: 1.5rem !important;
 }
 
+.mb-4,
+.my-4 {
+  margin-bottom: 1.75rem !important;
+}
+
 .kontakt {
   background: linear-gradient(to right top, #005e80, #00bbff);
   border-radius: 1rem;
